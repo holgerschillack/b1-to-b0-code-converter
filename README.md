@@ -6,7 +6,7 @@ Derived from https://github.com/Portisch/RF-Bridge-EFM8BB1/issues/23
 
 ## Deployed version on GitHub pages
 
-- I have already deployed the app on GitHub Pages: [See Here](https://holgerschillack.github.io/b1-to-b0-code-converter/)
+- I deployed the app on Netlify: [See Here](https://b1-to-b0-code-converter.netlify.app/)
 
 ## Local installation
 
