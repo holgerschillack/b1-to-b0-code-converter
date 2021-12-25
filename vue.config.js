@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/project name/'
-  }
+  publicPath: "/b1-to-b0-code-converter",
+};
