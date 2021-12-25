@@ -1,7 +1,16 @@
-# Vue 3 + Vite
+# B1 to B0 Code Converter
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This tool converts B1 codes from Tasmota Bridge received with `rfraw 177` to B0 codes that can be send again via Tasmota Bridge.
 
-## Recommended IDE Setup
+Derived from https://github.com/Portisch/RF-Bridge-EFM8BB1/issues/23
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+## Deployed version on GitHub pages
+
+- I have already deployed the app on GitHub Pages: [See Here](https://holgerschillack.github.io/b1-to-b0-code-converter/)
+
+## Local installation
+
+- Clone repository
+- run `npm install` with Node JS 14 or higher
+- run `npm run dev` to start dev server on port 3000
+- brwose http://localhost:3000/ to see started app
